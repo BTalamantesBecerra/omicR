@@ -17,6 +17,8 @@ b.	Biopython: https://biopython.org/
 
 c.	omicR: https://github.com/BTalamantesBecerra/omicR Download the following files from GitHub: “omicR.py” and “Currito.ico” and save them in your python working directory. 
 
+d. BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ 
+
 
 -Open the script “omicR.py” in Python and run it.
 
