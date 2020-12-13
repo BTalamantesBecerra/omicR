@@ -5,8 +5,6 @@ omicR creates fasta files, downloads genomes from NCBI using the refseq number, 
 
 These scripts can be used to run BLAST alignment of short-read (DArTseq data) and long-read sequences (Illumina, PacBio… etc). You can use reference genomes from NCBI, genomes from your private collection, contigs, scaffolds or any other genetic sequence that you would like to use as reference. 
 
-This version is suitable for MAC, Windows and Linux users. 
-
 Watch the tutorial video in YouTube omicR with Graphical User Interface (~20 min) https://youtu.be/pdMio2vj-FM 
 
 You need to install the following:
