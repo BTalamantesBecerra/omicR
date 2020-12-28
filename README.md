@@ -24,3 +24,6 @@ d. BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/
 
 As general practice avoid installing your software in directories such as “C://Program files/” as the space between words will cause problems. 
 Remember to add all the software you install into your System Variables Path. 
+
+
+For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
